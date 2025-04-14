@@ -17,7 +17,8 @@
     "@types/node": "^20.11.20"
   },
   "dependencies": {
-    "live-server": "^1.2.2",
-    "node-html-parser": "^7.0.1"
+    "live-server": "^1.2.0",
+    "node-html-parser": "^7.0.1",
+    "update": "^0.7.4"
   }
 }
